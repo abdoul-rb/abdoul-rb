@@ -1,10 +1,11 @@
 ### Hi, I'm me 😉👋
+---
 
 **I am Fullstack Developer, Laravel/VueJS.** 
 
 I love Coding 💻 ... 
 
-One piece <img src="https://user-images.githubusercontent.com/44239919/132842012-c9c8b149-1cb0-4913-b4a1-188b8b2be92d.png" width="32" height="32" align="center"> and Friends 🔥 little addict.
+One piece <img src="https://user-images.githubusercontent.com/44239919/132842012-c9c8b149-1cb0-4913-b4a1-188b8b2be92d.png" width="32" height="32" align="center"> and Friends 🔥 "little" addict.
 
 Nice to see you here !
 
