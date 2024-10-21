@@ -1,4 +1,4 @@
-![👋 Fullstack Developer | Laravel Enthusiast | Design Lover](https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/What-Is-Pair-Programming--1.png)
+![👋 Fullstack Developer | Laravel Enthusiast | Design Lover]([https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/What-Is-Pair-Programming--1.png](https://images.unsplash.com/photo-1658233427921-ea472627412c?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fG9uZSUyMHBpZWNlfGVufDB8fDB8fHww))
 
 ![Profile views](https://komarev.com/ghpvc/?username=abdoul-rb&label=Profile%20views&color=0e75b6&style=flat)
 
