@@ -13,12 +13,12 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/abdoul-rb" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="32" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/abdoul-rahim-arb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="32" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://github.com/abdoul-rb" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/abdoul-rahim-arb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Passionate fullstack web developer with a focus on Laravel and PHP. I thrive on writing clean, maintainable code, and have a strong interest in creating beautiful, well-crafted solutions. My goal is to blend functionality with design, ensuring that both the codebase and the user experience are elegant and efficient.
-</h3>**
+ <p align="left">🚀 Passionate fullstack web developer with a focus on Laravel and PHP. I thrive on writing clean, maintainable code, and have a strong interest in creating beautiful, well-crafted solutions. My goal is to blend functionality with design, ensuring that both the codebase and the user experience are elegant and efficient.
+</h3>
 
-One piece <img src="https://user-images.githubusercontent.com/44239919/132842012-c9c8b149-1cb0-4913-b4a1-188b8b2be92d.png" width="32" height="32" align="center"> and Friends 🔥 "enthusiast".
+<p align="left">One piece <img src="https://user-images.githubusercontent.com/44239919/132842012-c9c8b149-1cb0-4913-b4a1-188b8b2be92d.png" width="32" height="32" align="center"> and Friends 🔥 "enthusiast".</p>
 
 **<h3 align="left">Rapid Fire</h3>**
 
