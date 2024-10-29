@@ -36,10 +36,6 @@
   Feel free to explore my repositories and see the projects I've worked on! I'm always open to feedback and collaboration opportunities. Let's build something awesome together!
 </p>
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdoul-rb&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
-
 
 <!--
 **abdoul-rb/abdoul-rb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
